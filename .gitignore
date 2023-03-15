@@ -1,0 +1,7 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+*.nbconvert.ipynb
+*.html
+*.pyc
+__pycache__/
