@@ -10,5 +10,7 @@ In order to run the project:
 6. In the training run the 2 first cells to download English fast text and arabic fast text embeddings
 7. Run Creating English embedding on english dataset using Fasttext part
 8. Run Creating Arabic embedding on arabic dataset using Fasttext part 
-10. Run "Load already saved model part" instead of re-training
-11. Finally run predictions part
+9. Run "Load already saved model part" instead of re-training
+10. Finally run predictions part
+
+*P.S*: You can skip 6,7,8 and use the model loaded in step 9 to predict on input text
