@@ -1,5 +1,6 @@
 # NLP
 Movie Sentiment Analysis project for NLP course at the GUC
+The code is already run, you can see the results after each cell.
 In order to run the project:
 1. clone the repo onto google colab
 2. unzip Arabic dataset.zip and IMDB Dataset.csv.zip
